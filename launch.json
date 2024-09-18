@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "cadence",
+        "request": "launch",
+        "name": "Cadence Skill",
+        "program": "${file}",
+        "stopOnEntry": true
+      }
+    ]
+  }
+  
